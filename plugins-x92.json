@@ -687,9 +687,9 @@
     "name": "BloombergHT"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v86.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v87.cs3",
     "status": 1,
-    "version": 86,
+    "version": 87,
     "name": "BOAT",
     "internalName": "BOAT",
     "authors": [
@@ -709,7 +709,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/boat_v2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-17aa1a9915484b86d50005ea2c16b90ec56948c4933d3a9373ef917cfbb0fe55"
+    "fileHash": "sha256-a9af3c81c3acf0690acfbd2e0f28c276a44f41ab8c73ad7fba901172b432f0a6"
   },
   {
     "iconUrl": "https://www.buzfilmizle3.com/wp-content/uploads/cropped-unnamed-192x192.png",
@@ -968,10 +968,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgi.site&sz=%size%",
-    "fileHash": "sha256-16626228be2ea42b536c7cfed83f4624faba3a8f53b0a9217cb803513ce9d9e0",
+    "fileHash": "sha256-9bae2d1f1118976378358ebb608e690b528c896141583f4d9e21ef680e99a6f6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
-    "fileSize": 34582,
+    "fileSize": 35554,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -981,31 +981,32 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "CizgiSite",
     "description": "CizgiSite — Türkçe çizgi film arşivi",
     "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/CizgiSite.cs3",
     "name": "CizgiSite"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/CizgiveDizi.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/CizgiveDizi.cs3",
     "status": 1,
-    "version": 44,
+    "version": 51,
     "name": "CizgiveDizi",
     "internalName": "CizgiveDizi",
     "authors": [
-      "kraptor"
+      "kraptor",
+      "ByAyzen"
     ],
     "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-    "fileSize": 34840,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "fileSize": 43326,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Cartoon"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
     "apiVersion": 1,
-    "fileHash": "sha256-9168b413efd28eb50dc10984242c80143f1d69dc646e26a8f2b56b4219411ce3"
+    "fileHash": "sha256-4d0020ce5ceb10a7e07cb18c42c28dcbc3120426a112d413454edf2345b79d59"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ClipBox.cs3",
@@ -3833,10 +3834,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kanald.com.tr&sz=%size%",
-    "fileHash": "sha256-9397abe128495c50614338886c74c9d01c17b99f2247ea9e4c5f31ea6ce844fd",
+    "fileHash": "sha256-b83af2a65e655ae05b32d41060b151c1a2dc54fe35c7d616be92e9da37521b05",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
-    "fileSize": 33057,
+    "fileSize": 33506,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3846,7 +3847,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "KanalD",
     "description": "Kanal D — dizi ve program bölümleri",
     "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/KanalD.cs3",
