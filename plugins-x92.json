@@ -1138,24 +1138,68 @@
     "fileHash": "sha256-dcdfb3739406909993b67bfb532495f087f1524028e1cc0cd6445415ffbaced8"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/Ddizi.cs3",
-    "status": 1,
-    "version": 14,
-    "name": "Ddizi",
     "internalName": "Ddizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
-    "fileSize": 26820,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "name": "Ddizi",
+    "version": 1025,
+    "url": "https://raw.githubusercontent.com/merb2y/cs-builds/builds/Ddizi.cs3",
+    "fileHash": "sha256-d2cfec249ced655daeb9db74b887d05925e6928c2a4d9b3bff6c5ee03d4a36ac",
+    "fileSize": 20508,
+    "status": 1,
+    "apiVersion": 1,
     "language": "tr",
+    "authors": [
+      "CS"
+    ],
+    "description": "DDizi - Yerli diziler ve televizyon programları",
     "tvTypes": [
       "TvSeries"
     ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=128",
+    "repositoryUrl": "https://github.com/merb2y/cs-builds"
+  },
+  {
     "iconUrl": "https://www.ddizi.im/images/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ada64b4eb65f586f3c42b1f17faa2d36dae555f0c0e6a78b52866e5da804be20"
+    "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+    "fileSize": 23749,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "GitLatte",
+      "patr0nq"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 4,
+    "internalName": "DDizi - Latte",
+    "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi - Latte.cs3",
+    "name": "DDizi - Latte",
+    "fileHash": "sha256-a6a26820edeb5a7e79256fa169b2f873ca3113c8aaf7292f2aa17ba03356e313"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DDiziAlternatif.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "DDiziAlternatif",
+    "internalName": "DDiziAlternatif",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 119156,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4918bbc2cf171d5146a27e6684ed72e2b6aa7bb270503ca26493fec03dee4ab1"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ddizimag.icu&sz=%size%",
@@ -1474,10 +1518,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizifilmizle.to&sz=%size%",
-    "fileHash": "sha256-e1d2726a64bc77a532fc6d96c4e80fc7a87802aa2e3cf172a0c229ada5839964",
+    "fileHash": "sha256-7350825d455d53b1bdb1e9d729fe54a2d9367a2ddd0027462023d3943a15fff4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Bymesut1/Kartaloglu-cs",
-    "fileSize": 60717,
+    "fileSize": 68179,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1487,7 +1531,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 10,
+    "version": 12,
     "internalName": "DiziFilmIzle",
     "description": "DiziFilmIzle - dizi ve film izle (TMDB bilgili)",
     "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/DiziFilmIzle.cs3",
@@ -1810,27 +1854,6 @@
     "fileHash": "sha256-dc9909575b6b909580b29831bda1cf96fc7027e87584d603ad5d42a86afc4613"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2142.com&sz=%size%",
-    "fileHash": "sha256-de863aa4b5397feca28d28adc02babb8da7e381cc4b2b525199d99901047ffc9",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 36707,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 7,
-    "internalName": "DiziPal2",
-    "description": "DiziPal2  en yeni dizileri gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼venli ve hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ekilde sunar.",
-    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziPal2.cs3",
-    "name": "DiziPal2"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal.bid&sz=%size%",
     "fileHash": "sha256-b44bc92ad57b94b7bbc0e147cc624328ed06d0dfde7445a4433d39fb3481cb9d",
     "apiVersion": 1,
@@ -1900,7 +1923,7 @@
   {
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
     "status": 1,
-    "version": 114,
+    "version": 115,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
@@ -1908,7 +1931,7 @@
       "muratcesmecioglu"
     ],
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 32223,
+    "fileSize": 32227,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1917,7 +1940,7 @@
     ],
     "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
     "apiVersion": 1,
-    "fileHash": "sha256-40f23bd2b2fcd0398cd4513e16476d744cd5cf5680b57af36a41fc386a5164ca"
+    "fileHash": "sha256-15cb2be84fba84d990d152b5fb8a4c0bc305983866792cc55442ba8059c749bf"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPalOrijinal.cs3",
@@ -3705,25 +3728,25 @@
     "fileHash": "sha256-b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.wiki&sz=%size%",
-    "fileHash": "sha256-6b09f958f5c4317aa16dd80ddfcfdc1d6108d089622e8e39df73a10c09ef9079",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 36955,
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/JetFilmizle.cs3",
     "status": 1,
-    "language": "tr",
-    "authors": [
-      "Kayracs3"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 26,
+    "version": 63,
+    "name": "JetFilmizle",
     "internalName": "JetFilmizle",
-    "description": "Jet Film - Türkçe dublajlı ve altyazılı film sağlayıcısı",
-    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/JetFilmizle.cs3",
-    "name": "JetFilmizle"
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+    "fileSize": 64337,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/KacakSpor.cs3?v=7932cf040989",
@@ -4389,6 +4412,28 @@
     "description": "MRC-Plus ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ok kaynaklÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§erik kataloÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸u (film, dizi).",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/MRC-Plus.cs3",
     "name": "MRC-Plus"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=framextv.cc&sz=%size%",
+    "fileHash": "sha256-805544603a67d57e3e4a0d568a561618f26ada40e6f0ee82f966b83861cff3a6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/vustomusto/cs-eklentilerim",
+    "fileSize": 40164,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Mustafa"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime"
+    ],
+    "version": 7,
+    "internalName": "MultiStream",
+    "description": "Dizipal (Otomatik Adres) ve FrameXTV (TMDB Multi-Server) Eklentisi",
+    "url": "https://raw.githubusercontent.com/vustomusto/cs-eklentilerim/builds/MultiStream.cs3",
+    "name": "MultiStream"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/MuseDrama.cs3",
@@ -5085,25 +5130,26 @@
     "name": "RoketDizi"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/SeiCode.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/SeiCode.cs3",
     "status": 1,
-    "version": 21,
+    "version": 26,
     "name": "SeiCode",
     "internalName": "SeiCode",
     "authors": [
       "kraptor",
+      "ByAyzen",
       "kerimmkirac"
     ],
     "description": "Seicode ile en yeni animeler keşfedin!",
-    "fileSize": 34775,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "fileSize": 40339,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Anime"
     ],
     "iconUrl": "https://seicode.net/favicon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fd6e628fded1f8e2a92488ae26bc01e854e96c6c70437a8181777cc9ceb5c708"
+    "fileHash": "sha256-f1ebdac5ecf627f57bcf2ff07b331ea04d131f24e5f5dcde070b26c4a8420ad3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=selcukflix.app",
@@ -5456,6 +5502,27 @@
     "name": "Sinemakolik"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemetrik.com&sz=%size%",
+    "fileHash": "sha256-a2594bc6836dfc8354a0799cd1008523d6607f95acf7cfabcb1ddfeb6d90c79e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 43735,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Sinemetrik",
+    "description": "Sinemetrik — sinemetrik.com Türkçe film/dizi platformu (kendi player'ı, TR altyazı)",
+    "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/Sinemetrik.cs3",
+    "name": "Sinemetrik"
+  },
+  {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/SineWix.cs3",
     "status": 1,
     "version": 33,
@@ -5520,6 +5587,27 @@
     "description": "Sinezy.to film ve dizi sağlayıcısı",
     "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/SinezyTo.cs3",
     "name": "SinezyTo"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sonanime.com&sz=%size%",
+    "fileHash": "sha256-49c426754332c721a616878816f2a8174bb7b768a1c89deda6bc4ee889893a87",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 45352,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 5,
+    "internalName": "SonAnime",
+    "description": "SonAnime — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/SonAnime.cs3",
+    "name": "SonAnime"
   },
   {
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSpor@main/assets/logo.png",
@@ -6686,27 +6774,6 @@
     "description": "Weboo — Türkçe içerik",
     "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/Weboo.cs3",
     "name": "Weboo"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/WebteIzle.cs3",
-    "status": 1,
-    "version": 59,
-    "name": "WebteIzle",
-    "internalName": "WebteIzle",
-    "authors": [
-      "keyiflerolsun",
-      "nikyokki"
-    ],
-    "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "fileSize": 35303,
-    "repositoryUrl": "https://github.com/arcilingir/Dizi_Film_2",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-cdfa54fcb567d500705525c1c7d2764d1522c751383e3ed2c9b3e6097918e7fc"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/WFilmizle.cs3",
