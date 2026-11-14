@@ -104,50 +104,6 @@
     "name": "AniArsiv"
   },
   {
-    "internalName": "AnimeciX",
-    "name": "AnimeciX",
-    "version": 1021,
-    "url": "https://raw.githubusercontent.com/merb2y/cs-builds/builds/AnimeciX.cs3",
-    "fileHash": "sha256-0451adfd80c828e6b080cda88dcc2d03c331cfa26cc5e472f6ebfc8f35a181d5",
-    "fileSize": 26298,
-    "status": 1,
-    "apiVersion": 1,
-    "language": "tr",
-    "authors": [
-      "CS"
-    ],
-    "description": "AnimeciX - Türkçe anime keşif ve izleme platformu",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://anm.cx/favicon.ico",
-    "repositoryUrl": "https://github.com/merb2y/cs-builds"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeciXProvider.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "AnimeciXProvider",
-    "internalName": "AnimeciXProvider",
-    "authors": [
-      "sanjarkola",
-      "BTcozum",
-      "Kraptor"
-    ],
-    "description": "[AnimeciX | Türkçe Anime] Türkiye'nin lider anime arşivi. 1000+ anime serisi ve filmi %100 Türkçe altyazı ve dublaj ile.",
-    "fileSize": 135532,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
-    "language": "tr",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.tv&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-63d0e1258603932a4f238750d3614f710b9a929627978fd5f4e79c76dfa622fa"
-  },
-  {
     "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Anizium.cs3",
     "status": 1,
     "version": 28,
@@ -437,24 +393,24 @@
     "fileHash": "sha256-4240bb11e038471461b2b6286fd40de81a1f65829296eade244122b37cc11161"
   },
   {
-    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/AsyaWatch.cs3",
     "status": 1,
-    "version": 42,
+    "version": 38,
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
     "authors": [
       "kerimmkirac"
     ],
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-    "fileSize": 72074,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "fileSize": 61456,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
     "language": "tr",
     "tvTypes": [
       "AsianDrama"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
     "apiVersion": 1,
-    "fileHash": "sha256-bcb3b5cb237cad99ae7dd9d970b6fcc77932b92772bb0678406337416c2aba5b"
+    "fileHash": "sha256-75c09c7a2087ab0e1abcf2d2b55da86900b146b2273f1670cc73c6a8a2be8ffe"
   },
   {
     "name": "AtomSpor",
@@ -687,9 +643,9 @@
     "name": "BloombergHT"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v87.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v88.cs3",
     "status": 1,
-    "version": 87,
+    "version": 88,
     "name": "BOAT",
     "internalName": "BOAT",
     "authors": [
@@ -709,7 +665,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/boat_v2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a9af3c81c3acf0690acfbd2e0f28c276a44f41ab8c73ad7fba901172b432f0a6"
+    "fileHash": "sha256-1f2ed3d24a9a1e167876a333d83982d8463ff40b6c443d8b321c6ce4cfaa117d"
   },
   {
     "iconUrl": "https://www.buzfilmizle3.com/wp-content/uploads/cropped-unnamed-192x192.png",
@@ -733,10 +689,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=canlidizi.sbs&sz=%size%",
-    "fileHash": "sha256-445e04fbf7b0520cab410648aa0d570a5d0e75a99ab7c4b4d96a95998a62c1ce",
+    "fileHash": "sha256-1323076e9433703bcb26afd05132627010c96b37e50f4edcf759c0f18f462da1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
-    "fileSize": 45198,
+    "fileSize": 45215,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -746,7 +702,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "CanliDizi",
     "description": "CanliDizi — Türkçe içerik",
     "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/CanliDizi.cs3",
@@ -1726,47 +1682,25 @@
     "fileHash": "sha256-f59cf16fb13c420e69b3bcef50212ac63334b308ebd6efde8859e8fad3b4267c"
   },
   {
-    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/Dizilla.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/Dizilla_v96.cs3",
     "status": 1,
-    "version": 112,
+    "version": 96,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
-      "kraptor",
-      "kerimmkirac"
+      "keyiflerolsun",
+      "Dr.Octagon"
     ],
-    "description": "1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-    "fileSize": 150199,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
-    "apiVersion": 1,
-    "fileHash": "sha256-689ecee1550aa86c9b53f40ee4a49493c4e333c1622498de0327da78191bf806"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DizillaProvider.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "DizillaProvider",
-    "internalName": "DizillaProvider",
-    "authors": [
-      "sanjarkola",
-      "BTcozum",
-      "keyiflerolsun"
-    ],
-    "description": "[Dizilla | Yabancı Diziler] En yeni yabancı dizileri 1080p Türkçe altyazılı ve dublajlı olarak izleyin.",
-    "fileSize": 126856,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+    "fileSize": 44035,
+    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-4ceb3383b6c1199d347c6e5bfdf4e505d8a574e516ead1839b9893d023c7b50d"
+    "fileHash": "sha256-73baaad66d1db644e59924d6e1b2a352c9ad1385abf0cfc817e9a847351a4e89"
   },
   {
     "url": "https://raw.githubusercontent.com/csprofesor/nik-cloudstream/builds/DiziMag.cs3",
@@ -1832,26 +1766,25 @@
     "name": "DiziMom"
   },
   {
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
-    "status": 1,
-    "version": 122,
-    "name": "DiziPal",
     "internalName": "DiziPal",
-    "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
-    ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 38327,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "name": "DiziPal",
+    "version": 1120,
+    "url": "https://raw.githubusercontent.com/merb2y/cs-builds/builds/DiziPal.cs3",
+    "fileHash": "sha256-08012bbc4e8ed500eb7b2396f4fc0e782eb2a9f36f74f5f753ea28b9fc0e2a51",
+    "fileSize": 44852,
+    "status": 1,
+    "apiVersion": 1,
     "language": "tr",
+    "authors": [
+      "CS"
+    ],
+    "description": "DiziPal - Güncel dizi ve film içerikleri",
     "tvTypes": [
       "TvSeries",
       "Movie"
     ],
-    "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
-    "apiVersion": 1,
-    "fileHash": "sha256-dc9909575b6b909580b29831bda1cf96fc7027e87584d603ad5d42a86afc4613"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal.com&sz=128",
+    "repositoryUrl": "https://github.com/merb2y/cs-builds"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2142.com&sz=%size%",
@@ -1895,28 +1828,6 @@
     "description": "Yabancı dizi, film ve anime izleme sitesi (dizipal.bid aynası).",
     "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DizipalExtended.cs3",
     "name": "DizipalExtended"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1593.com&sz=%size%",
-    "fileHash": "sha256-d02eb875176c4e81f948e21af57089881267bdac1d68c13caac9a445fe58790c",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/neoser1984/neowatch",
-    "fileSize": 45039,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "NeO"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Anime"
-    ],
-    "version": 5,
-    "internalName": "DiziPalGuncel",
-    "description": "Dizipal Orijinal / Güncel — yabancı dizi ve film izle",
-    "url": "https://raw.githubusercontent.com/neoser1984/neowatch/builds/DiziPalGuncel.cs3",
-    "name": "DiziPalGuncel"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalHub.cs3?v=c9bc8c46b45f",
@@ -2007,67 +1918,51 @@
     "name": "DiziPalOrjinal"
   },
   {
-    "internalName": "DiziPod",
-    "name": "DiziPod",
-    "version": 1003,
-    "url": "https://raw.githubusercontent.com/merb2y/cs-builds/builds/DiziPod.cs3",
-    "fileHash": "sha256-fd35ce7019b65bf4832b3846eb70ceeadbdaa332dace62e1aca01389056fab53",
-    "fileSize": 23682,
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/Dizipod.cs3",
     "status": 1,
-    "apiVersion": 1,
-    "language": "tr",
+    "version": 8,
+    "name": "Dizipod",
+    "internalName": "Dizipod",
     "authors": [
-      "CS"
+      "kraptor",
+      "ByAyzen ",
+      "kerimmkirac"
     ],
-    "description": "DiziPod - Altyazılı yabancı dizi ve film platformu",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
-    "repositoryUrl": "https://github.com/merb2y/cs-builds"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.one&sz=%size%",
-    "fileHash": "sha256-77b4dd4a83dcf92fb0eb38c728648b6b8ed5938ed8456362652f4276d836e15f",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
-    "fileSize": 41125,
-    "status": 1,
+    "description": "Güncel diziler, son eklenen yabancı dizileri bu sayfadan takip edebilirsiniz. Son eklenen yabancı dizileri donmadan izlemek için bizi takip etmeye devam edin.",
+    "fileSize": 70319,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
     "language": "tr",
-    "authors": [
-      "F0Rextasy"
-    ],
     "tvTypes": [
       "Movie",
-      "TvSeries"
+      "TvSeries",
+      "AsianDrama"
     ],
-    "version": 5,
-    "internalName": "Dizirella",
-    "description": "Dizirella — Türkçe içerik",
-    "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/Dizirella.cs3",
-    "name": "Dizirella"
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-7e15792ac40f70857ebef2b95ab8e5f3912ed6ad9621e764199ab313965c2772"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/Diziroll_v2.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/DiziRella.cs3?v=986928647db7",
     "status": 1,
-    "version": 2,
-    "name": "Diziroll",
-    "internalName": "Diziroll",
+    "version": 11,
+    "name": "DiziRella",
+    "internalName": "DiziRella",
     "authors": [
-      "Dr.Octagon",
-      "wGodfather"
+      "Wiojelt"
     ],
-    "description": "Diziroll (diziroll.club) - Yabancı diziler, güncel bölümler, Türkçe dublaj ve altyazı seçenekleriyle.",
-    "fileSize": 39497,
-    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
+    "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 139197,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/diziroll.png",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f29a581a5754f6d99a251245fabfcb11bb2c36a4c5cfcf643f226de67816e83c"
+    "fileHash": "sha256-986928647db780ee7165199dfaf416e265def505c6b681cdf0f31d9cc36e80ae"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizisol.com&sz=%size%",
@@ -2509,26 +2404,6 @@
     "fileHash": "sha256-0a453bdd54238de61490a0707fc6411159671fb1f5987be52a0702031d8a4567"
   },
   {
-    "iconUrl": "https://filmizlehell.net/favicon.ico",
-    "fileHash": "sha256-90903a8c0fa6d1565cf2c19c14ebfc96dc34fba1de9c4eca8f05850a1a6c6676",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 140418,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Kayracs3"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 24,
-    "internalName": "FilmizleHell",
-    "description": "FilmizleHell film arşivi; arama, afiş, IMDb, oyuncu bilgileri ve video kaynakları",
-    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/FilmizleHell.cs3",
-    "name": "FilmizleHell"
-  },
-  {
     "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/FilmIzleIlk.cs3",
     "status": 1,
     "version": 1,
@@ -2651,26 +2526,6 @@
     "description": "Donmadan 1080p ve 4K film izleme arşivi. VIP Player ve HLS akışları.",
     "url": "https://raw.githubusercontent.com/miskin1702/aslan-pub/main/FilmMakinesi.cs3",
     "name": "FilmMakinesi"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/ctnkyaumt/cstest/builds/Filmmirasım.cs3",
-    "status": 1,
-    "version": 5,
-    "name": "Filmmirasım",
-    "internalName": "Filmmirasım",
-    "authors": [
-      "byayzen"
-    ],
-    "description": "Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
-    "fileSize": 15162,
-    "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
-    "language": "tr",
-    "tvTypes": [
-      "Documentary"
-    ],
-    "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-45482b68a9eb43b52fed18f102c68269c3ce478117300da71ea9c6977da3e03f"
   },
   {
     "internalName": "FilmModu",
@@ -2966,26 +2821,6 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/greatDRAMA.png",
     "apiVersion": 1,
     "fileHash": "sha256-2d3b343011dca7fdf36c8754193db096b685fa8e62257eee633830802ee01a6d"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=haberglobal.com&sz=%size%",
-    "fileHash": "sha256-b5f4bb01cf773887e9a1c86f2008a03c0d2e5787ecc403acc08368c3c4378275",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/JustSadY/Cloudstream-Lykia",
-    "fileSize": 17468,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustSadY"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 1,
-    "internalName": "HaberGlobal",
-    "description": "Haber Global'in haber ve program videolarını izleyin",
-    "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/HaberGlobal.cs3",
-    "name": "HaberGlobal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=haberturk.com&sz=%size%",
@@ -3628,26 +3463,6 @@
     "name": "InatTVBox"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=internethaber.com&sz=%size%",
-    "fileHash": "sha256-f1764aa07637ed1eaf101965b568ea0131b3a40256223b5d22d9cc258dd1a444",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/JustSadY/Cloudstream-Lykia",
-    "fileSize": 11516,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustSadY"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 1,
-    "internalName": "InternetHaber",
-    "description": "İnternet Haber'in video galerisini ve haber videolarını izleyin",
-    "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/InternetHaber.cs3",
-    "name": "InternetHaber"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3?v=edb8f888196e",
     "status": 3,
     "version": 10,
@@ -4026,25 +3841,25 @@
     "name": "KRT"
   },
   {
-    "internalName": "KultFilmler",
-    "name": "KultFilmler",
-    "version": 1016,
-    "url": "https://raw.githubusercontent.com/merb2y/cs-builds/builds/KultFilmler.cs3",
-    "fileHash": "sha256-e155cadb6697643bd91a9e95137d2a45203f146a3d1d73b6b085543a338f964e",
-    "fileSize": 27338,
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/KultFilmler.cs3",
     "status": 1,
-    "apiVersion": 1,
-    "language": "tr",
+    "version": 29,
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
     "authors": [
-      "CS"
+      "kraptor"
     ],
-    "description": "Kült Filmler - Seçkin ve kült altyazılı film arşivi",
+    "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "fileSize": 28917,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
-    "repositoryUrl": "https://github.com/merb2y/cs-builds"
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
+    "apiVersion": 1,
+    "fileHash": "sha256-380438bf29e02fdd456f91af16bfc9b70ff43134dd6c82b2da44a6c8aa920801"
   },
   {
     "name": "LeoTV",
@@ -4293,27 +4108,6 @@
     "description": "Milliyet TV'nin haber videolarını Dailymotion üzerinden izleyin",
     "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/MilliyetTV.cs3",
     "name": "MilliyetTV"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/MiniDiziIzle.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "MiniDiziIzle",
-    "internalName": "MiniDiziIzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Mini Dizi İzle — Türkçe dublajlı ve altyazılı mini dizi platformu.",
-    "fileSize": 110753,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/minidiziizle.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=%size%",
@@ -4812,9 +4606,9 @@
     "fileHash": "sha256-e0393ea5e8048a0afdb9e3fd8863441416116200352689f58166c18e5b20790d"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/OpenAnime.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/OpenAnime.cs3",
     "status": 1,
-    "version": 25,
+    "version": 29,
     "name": "OpenAnime",
     "internalName": "OpenAnime",
     "authors": [
@@ -4822,8 +4616,8 @@
       "ByAyzen"
     ],
     "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
-    "fileSize": 67615,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "fileSize": 75101,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Anime",
@@ -4831,7 +4625,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
     "apiVersion": 1,
-    "fileHash": "sha256-eed28bebf342b67d1d5ae9b870c73c9acd0b6fd7bac1ffb7ff46bce6aaabc1f5"
+    "fileHash": "sha256-168235fd66f997157184e279246ca39d73a5bc26990746e13cb8f2d6af3c10a4"
   },
   {
     "url": "https://raw.githubusercontent.com/Ripplay/cloudstream-repo/builds/OwnedSites.cs3",
@@ -4853,6 +4647,26 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=%size%",
     "apiVersion": 1,
     "fileHash": "sha256-74302a0a83805097a00beb41d0d4c53d3176a7d9045d2bfaa32ea1f002740dfb"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PapazSports.cs3?v=1c6e2b5b8aca",
+    "status": 3,
+    "version": 1,
+    "name": "PapazSports",
+    "internalName": "PapazSports",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "PapazSports canlÄ± kanal ve maÃ§ listesi, artan alan adÄ± keÅŸfi ve gÃ¼ncelleme ekranÄ±.",
+    "fileSize": 230234,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1c6e2b5b8aca897fbe20b8e39636c1cb6d2cb155a02314a8efb5ab4aa82823d3"
   },
   {
     "name": "PatronHD",
@@ -5342,27 +5156,6 @@
     "description": "SezonlukFilm - Türkçe dublaj ve altyazılı film arşivi",
     "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/SezonlukFilm.cs3",
     "name": "SezonlukFilm"
-  },
-  {
-    "name": "Shortizle",
-    "internalName": "Shortizle",
-    "version": 2,
-    "description": "Shortizle — Türkçe altyazılı ve dublajlı dikey kısa drama dizileri.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/Shortizle.cs3?v=fbf700566931",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/shortizle.png",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "status": 1,
-    "fileSize": 116595,
-    "fileHash": "sha256-fbf700566931c69dda13cb1eed73fff8363c3087e9e6e347ab952c08c1ff5c7a",
-    "apiVersion": 1
   },
   {
     "name": "ShortMax",
@@ -6728,30 +6521,6 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
     "apiVersion": 1,
     "fileHash": "sha256-5c70e374f9b89667bae9e18b506adb3ec66eda5e31667cd806998c269be5daee"
-  },
-  {
-    "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=2.1.8",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-    "fileSize": 32680,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "GitLatte",
-      "patr0nq"
-    ],
-    "tvTypes": [
-      "Movie",
-      "Podcast",
-      "AsianDrama",
-      "Anime"
-    ],
-    "version": 3,
-    "internalName": "WebDramaTurkey - Latte",
-    "description": "Kore, Çin ve Japon yapımı filmleri Web Drama Turkey üzerinden Türkçe altyazılı olarak izleyebilirsiniz. Kore filmi izle, Çin filmi izle, Asya filmleri izle.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - Latte.cs3",
-    "name": "WebDramaTurkey - Latte",
-    "fileHash": "sha256-66df6a8040913317a0bde3a38a153f22e3344a9986ac0240dbcf7613a060bb23"
   },
   {
     "internalName": "WebdramaTurkey2",
