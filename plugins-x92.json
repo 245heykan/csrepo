@@ -630,7 +630,7 @@
       "berkdemir18"
     ],
     "description": "Turkce film, dizi, anime, belgesel ve canli TV kaynaklarinin tamamini tek eklentide toplayan BerkStream medya merkezi.",
-    "fileSize": 1702841,
+    "fileSize": 1727418,
     "repositoryUrl": "https://github.com/berkdemir18/BerkStream-Hub",
     "language": "tr",
     "tvTypes": [
@@ -645,7 +645,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/berkdemir18/BerkStream-Hub/main/assets/berkstream-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6ecc1c4c5fc43a9dccc50146c78f02088a0836639cb5c6a86a74a07c34f0ce9a"
+    "fileHash": "sha256-a369f96871bccf85f19975ee2dfecc98d84c500daa86cdb7fcb0d07fdd4af5e1"
   },
   {
     "name": "BetmatikTV",
@@ -4349,9 +4349,9 @@
     "iconUrl": "https://www.jestyayin970.com/logo.png"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 60,
+    "version": 63,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
@@ -4359,15 +4359,15 @@
       "ByAyzen"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 61952,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "fileSize": 64337,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-834376fc45083f40847fafc3ec7ad42305e12a3e74ec67545253fe356350898f"
+    "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.kalite18.net&sz=%size%",
@@ -7967,24 +7967,25 @@
     "name": "YirmidortTV"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
-    "fileHash": "sha256-de4525745c682705b802be4f243d7ccbad8b39dfcb46f7a403645b6fb28d9f57",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Bymesut1/Kartaloglu-cs",
-    "fileSize": 26873,
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/YouTube.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 5,
+    "name": "YouTube",
+    "internalName": "YouTube",
     "authors": [
-      "Bymesut1"
+      "BTcozum",
+      "keyiflerolsun"
     ],
+    "description": "YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
+    "fileSize": 17063,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
+    "language": "tr",
     "tvTypes": [
       "Others"
     ],
-    "version": 50,
-    "internalName": "YouTube",
-    "description": "YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
-    "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/YouTube.cs3",
-    "name": "YouTube"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-d9dd7c6caf3dd5dbbd5d45580bada2d5ac02964be832b934c2b74a5eed725cad"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png",
