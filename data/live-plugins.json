@@ -1086,7 +1086,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_SeyirTURK_v13.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SeyirTURK.cs3?v=eb79546afa08",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/seyirturk.png",
     "tvTypes": [
       "Movie",
@@ -1096,8 +1096,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 219696,
-    "apiVersion": 1,
-    "fileHash": "sha256-eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3"
+    "fileHash": "sha256-eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3",
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%",

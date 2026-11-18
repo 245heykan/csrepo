@@ -36,7 +36,7 @@ tam eklenti listesini ayrıştırmadan yalnızca bu listeyi okuyabilir.
 
 Bu tablo bot tarafından otomatik güncellenir. Kısa kod/adresler kaynak repoların README dosyalarından tespit edilir.
 
-**Son tarama:** <code>2026-11-17T15:46:05Z</code>
+**Son tarama:** <code>2026-11-18T00:47:35Z</code>
 
 | Repo | Durum | Eklenti | Kısa kod / adres | Uzun repo.json |
 |---|---|---:|---|---|
