@@ -108,6 +108,26 @@
     "fileHash": "sha256-63d0e1258603932a4f238750d3614f710b9a929627978fd5f4e79c76dfa622fa"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animetr.co&sz=%size%",
+    "fileHash": "sha256-e83818936c9b3eeac45ec9b44f56bb28443dbeaf69f8e512130cd67457f57633",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 78280,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnimeTR",
+    "description": "AnimeTR — anime ve donghua arşivi (animetr.co)",
+    "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/AnimeTR.cs3",
+    "name": "AnimeTR"
+  },
+  {
     "url": "https://raw.githubusercontent.com/UmayTrade/MyTV/builds/Anizium.cs3",
     "status": 1,
     "version": 28,
@@ -194,7 +214,7 @@
     "hash": "db4dd5d1e1c74d645e7831049e535750da13c1f5d96e3989cf343536ea7b979a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ArdaSpor.cs3?v=2944961cee66",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_ArdaSpor_v12.cs3",
     "status": 3,
     "version": 12,
     "name": "ArdaSpor",
@@ -211,12 +231,11 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2944961cee6655da0dacfd17feb7dd52a0739e5fcba1367c03766bae0a1843de",
     "filesize": 182830,
-    "hash": "2944961cee6655da0dacfd17feb7dd52a0739e5fcba1367c03766bae0a1843de"
+    "fileHash": "sha256-2944961cee6655da0dacfd17feb7dd52a0739e5fcba1367c03766bae0a1843de"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AslanTV.cs3?v=c7ad4d0ca654",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_AslanTV_v13.cs3",
     "status": 3,
     "version": 13,
     "name": "AslanTV",
@@ -233,29 +252,28 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c7ad4d0ca6544c5897ef13dbe5740af167c465d00b38eb09ec7d667aef8ed739",
     "filesize": 266887,
-    "hash": "c7ad4d0ca6544c5897ef13dbe5740af167c465d00b38eb09ec7d667aef8ed739"
+    "fileHash": "sha256-c7ad4d0ca6544c5897ef13dbe5740af167c465d00b38eb09ec7d667aef8ed739"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/AsyaAnimeleri.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/AsyaAnimeleri.cs3",
     "status": 1,
-    "version": 21,
+    "version": 25,
     "name": "AsyaAnimeleri",
     "internalName": "AsyaAnimeleri",
     "authors": [
       "kraptor"
     ],
     "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
-    "fileSize": 28074,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "fileSize": 33750,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Anime"
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b3f79532a5c0b35d109e5d5bdbb4f2bc37ad50e8928b5b40f5dcde3a0744df0f"
+    "fileHash": "sha256-4c756d47abc007ff642715bab52010d6b6282e51f469ab1e2407af42ce3564a7"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyadizi.com&sz=%size%",
@@ -424,25 +442,24 @@
     "fileHash": "sha256-bcb3b5cb237cad99ae7dd9d970b6fcc77932b92772bb0678406337416c2aba5b"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AtomSpor.cs3?v=bd733112e552",
-    "status": 3,
-    "version": 2,
     "name": "AtomSpor",
     "internalName": "AtomSpor",
+    "version": 2,
+    "description": "AtomSporTV canlı spor kanalları ve maç yayınları",
     "authors": [
       "Wiojelt"
     ],
-    "description": "AtomSporTV canlı spor kanalları ve maç yayınları.",
-    "fileSize": 158179,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/AtomSpor.cs3?v=bd733112e552",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AtomSpor.png",
     "tvTypes": [
       "Live"
     ],
-    "apiVersion": 1,
+    "language": "tr",
+    "status": 3,
+    "fileSize": 158179,
     "fileHash": "sha256-bd733112e5527ee491ce087b139624711e7e575f504233d91a41f2a6be1a8a26",
-    "filesize": 158179,
-    "hash": "bd733112e5527ee491ce087b139624711e7e575f504233d91a41f2a6be1a8a26"
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=atv.com.tr&sz=%size%",
@@ -553,7 +570,7 @@
     "fileHash": "sha256-a369f96871bccf85f19975ee2dfecc98d84c500daa86cdb7fcb0d07fdd4af5e1"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BetmatikTV.cs3?v=ff17447c948b",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/BetmatikTV.cs3?v=ff17447c948b",
     "status": 3,
     "version": 3,
     "name": "BetmatikTV",
@@ -561,20 +578,19 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
+    "description": "Betmatik TV canlÄ± spor kanallarÄ± Â· otomatik alan gÃ¼ncelleme",
     "fileSize": 219083,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ff17447c948bcd73f6935236ff878d83d903d9b2958fba35284dc0997c0ae9ca",
-    "hash": "ff17447c948bcd73f6935236ff878d83d903d9b2958fba35284dc0997c0ae9ca"
+    "fileHash": "sha256-ff17447c948bcd73f6935236ff878d83d903d9b2958fba35284dc0997c0ae9ca"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BeyazElma.cs3?v=4948e352375d",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/BeyazElma.cs3",
     "status": 3,
     "version": 12,
     "name": "BeyazElma",
@@ -582,18 +598,16 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
+    "description": "ğŸŸ¢ Kaynak: BeyazElma Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
     "fileSize": 219121,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4948e352375d04fad0510847b0127aa8226176e7ac1aaf048ae7ff7d058adcd6",
-    "filesize": 219121,
-    "hash": "4948e352375d04fad0510847b0127aa8226176e7ac1aaf048ae7ff7d058adcd6"
+    "fileHash": "sha256-4948e352375d04fad0510847b0127aa8226176e7ac1aaf048ae7ff7d058adcd6"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=beyaztv.com.tr&sz=%size%",
@@ -638,7 +652,7 @@
     "name": "BirAsyaDizi"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BirdirbirIPTV.cs3?v=a57408a2254d",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_BirdirbirIPTV_v28.cs3",
     "status": 3,
     "version": 28,
     "name": "BirdirbirIPTV",
@@ -654,9 +668,8 @@
       "Live"
     ],
     "apiVersion": 1,
-    "fileHash": "sha256-a57408a2254d21cabdfa52c8c08b051d7b2745e1cc54397a3f936741addf1a58",
     "filesize": 238394,
-    "hash": "a57408a2254d21cabdfa52c8c08b051d7b2745e1cc54397a3f936741addf1a58"
+    "fileHash": "sha256-a57408a2254d21cabdfa52c8c08b051d7b2745e1cc54397a3f936741addf1a58"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=bloomberght.com&sz=%size%",
@@ -679,9 +692,9 @@
     "name": "BloombergHT"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v100.cs3",
+    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/BOAT_v101.cs3",
     "status": 1,
-    "version": 100,
+    "version": 101,
     "name": "BOAT",
     "internalName": "BOAT",
     "authors": [
@@ -701,7 +714,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/boat_v2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fcf1cf136847469ef9a50c3b5bbcfe302eef4ba0816865ea7b89ce161927d1f3"
+    "fileHash": "sha256-5de7d80a95526491ca975a735b042fca8bf2d60b915fedcf92731fc83fe46b10"
   },
   {
     "iconUrl": "https://www.buzfilmizle3.com/wp-content/uploads/cropped-unnamed-192x192.png",
@@ -1126,26 +1139,6 @@
     "hash": "1d9ba5e7432350adcf88eb5318a4773ba300383287a380912c08c1da59d6259e"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cumhuriyet.com.tr&sz=%size%",
-    "fileHash": "sha256-e2e97ad001f792dc64819cc3266971f4a126a12e5890cba6823d7f6edd98df49",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/JustSadY/Cloudstream-Lykia",
-    "fileSize": 14206,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustSadY"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 1,
-    "internalName": "CumhuriyetTV",
-    "description": "Cumhuriyet TV'nin video haberlerini Dailymotion üzerinden izleyin",
-    "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/CumhuriyetTV.cs3",
-    "name": "CumhuriyetTV"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DaddyLive.cs3?v=dcdfb3739406",
     "status": 3,
     "version": 5,
@@ -1278,7 +1271,7 @@
     "hash": "6accd78413312f8fea00180b34296a2ecb0a8072e57ffe351a932cfae09840d6"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/Dexter.cs3?v=84b89555038d",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_Dexter_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "Dexter",
@@ -1296,9 +1289,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/providers/Dexter.png",
     "apiVersion": 1,
-    "fileHash": "sha256-84b89555038d99ed47d7cf37857928a0ef9f7a876c97fb1f80aad207a73468bd",
     "filesize": 169006,
-    "hash": "84b89555038d99ed47d7cf37857928a0ef9f7a876c97fb1f80aad207a73468bd"
+    "fileHash": "sha256-84b89555038d99ed47d7cf37857928a0ef9f7a876c97fb1f80aad207a73468bd"
   },
   {
     "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/Dizi77_v2.cs3",
@@ -1912,25 +1904,24 @@
     "name": "Dizimanya"
   },
   {
-    "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/DiziMom_v64.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziMom_v64.cs3",
     "status": 1,
     "version": 64,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
-      "keyiflerolsun",
-      "Dr.Octagon"
+      "keyiflerolsun"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 40539,
-    "repositoryUrl": "https://github.com/dr-octagon/Cloudstream-BronzeCloud",
+    "fileSize": 34839,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.diy&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-6837a55226cbcfe9190664a9ede25f5437efbbf88568ae58ab99eac5bbf38e43"
+    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9"
   },
   {
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziMomProvider.cs3",
@@ -1955,26 +1946,25 @@
     "fileHash": "sha256-d329b64dceff166e0e47722b53590e68fa2290cd50199910b4549cae70e8c759"
   },
   {
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal3008.com&sz=%size%",
+    "fileHash": "sha256-5e2409f75e83bb0ff39633caa93059e86f032073733f3dea35acce3d34b76403",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/JustSadY/Cloudstream-Lykia",
+    "fileSize": 29334,
     "status": 1,
-    "version": 124,
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
-    ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 39929,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
+    "authors": [
+      "JustSadY"
+    ],
     "tvTypes": [
       "TvSeries",
       "Movie"
     ],
-    "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
-    "apiVersion": 1,
-    "fileHash": "sha256-b2967b8a73a8e7b82028de2f5544d1a76e366dba2234b9a4ca82f8fc9a9e5fc9"
+    "version": 1,
+    "internalName": "DiziPal",
+    "description": "DiziPal ile dizileri ve filmleri Türkçe dublaj veya altyazılı olarak hızlı ve güvenli şekilde izleyin.",
+    "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/DiziPal.cs3",
+    "name": "DiziPal"
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPalOriginal_v117.cs3",
@@ -2023,28 +2013,6 @@
     "fileHash": "sha256-bb14abc358aa1dfb6c1778aecf4f713e10effe500884a03ec9a9f04e9dec33a9"
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPal_v124.cs3",
-    "status": 1,
-    "version": 124,
-    "name": "DiziPal [Feroxx Kekik]",
-    "internalName": "DiziPal_FeroxxKekik",
-    "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
-    ],
-    "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
-    "fileSize": 39929,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
-    "apiVersion": 1,
-    "fileHash": "sha256-b2967b8a73a8e7b82028de2f5544d1a76e366dba2234b9a4ca82f8fc9a9e5fc9"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal.bid&sz=%size%",
     "fileHash": "sha256-c7c618d57f29705a66dac9bd03c3445f5c5147242368f1568400cbdbff1c3d98",
     "apiVersion": 1,
@@ -2065,28 +2033,6 @@
     "description": "Yabancı dizi, film ve anime izleme sitesi (dizipal.bid aynası).",
     "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DizipalExtended.cs3",
     "name": "DizipalExtended"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1595.com&sz=%size%",
-    "fileHash": "sha256-46059bf14021ec2c260ce4b6c9e51224c9cee3730ae7c442ca177e81619e00fa",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/neoser1984/neowatch",
-    "fileSize": 49767,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "NeO"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Anime"
-    ],
-    "version": 8,
-    "internalName": "DiziPalGuncel",
-    "description": "Dizipal Orijinal / Güncel — yabancı dizi ve film izle",
-    "url": "https://raw.githubusercontent.com/neoser1984/neowatch/builds/DiziPalGuncel.cs3",
-    "name": "DiziPalGuncel"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalHub.cs3?v=c9bc8c46b45f",
@@ -2136,9 +2082,9 @@
     "fileHash": "sha256-a0c38e71692f4c8d016816162594c63fd8986b455963df783908a9563a71b8e4"
   },
   {
-    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPalOrijinal.cs3",
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/DiziPalOrijinal.cs3",
     "status": 1,
-    "version": 46,
+    "version": 34,
     "name": "DiziPalOrijinal",
     "internalName": "DiziPalOrijinal",
     "authors": [
@@ -2147,15 +2093,15 @@
       "ByAyzen"
     ],
     "description": "DiziPal Orijinal.",
-    "fileSize": 160870,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "fileSize": 156843,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
     "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1a4524422ace24370b8bba9f0b9e256b844619cf5f48ffb63670020a5b43f6bf"
+    "fileHash": "sha256-fe5833c349a4ae7b93e1495c195af0071f7238f5acdeca07bef4ae1e38436e5d"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipalorjinal18.com&sz=%size%",
@@ -2240,6 +2186,27 @@
     "iconUrl": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/logos/diziroll.png",
     "apiVersion": 1,
     "fileHash": "sha256-6c2a22ef8bb8300e51ecc8f96cacc0a1ae5af1794d7d5a23961918ae2e976fbf"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizisol.com&sz=%size%",
+    "fileHash": "sha256-29046d3fa33ab0cf976935549a3963302f1a57a548772c5d892a2f6dc587838f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Bymesut1/Kartaloglu-cs",
+    "fileSize": 99425,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Bymesut1"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 12,
+    "internalName": "DiziSol",
+    "description": "DiziSol - dizi ve film izle",
+    "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/DiziSol.cs3",
+    "name": "DiziSol"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizist.live&sz=%size%",
@@ -2368,7 +2335,7 @@
     "hash": "de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DomatesTV.cs3?v=a458f3331ff4",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/DomatesTV.cs3?v=a458f3331ff4",
     "status": 3,
     "version": 6,
     "name": "DomatesTV",
@@ -2376,18 +2343,16 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "Domates TV dinamik spor kanalları",
+    "description": "Domates TV dinamik spor kanallarÄ±",
     "fileSize": 171289,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-a458f3331ff41fd1191a3ba07a5aaeabde10dc4b6aff953a8687abc2e1a0622c",
-    "filesize": 171289,
-    "hash": "a458f3331ff41fd1191a3ba07a5aaeabde10dc4b6aff953a8687abc2e1a0622c"
+    "fileHash": "sha256-a458f3331ff41fd1191a3ba07a5aaeabde10dc4b6aff953a8687abc2e1a0622c"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Donkey.cs3?v=d27256f3fd9c",
@@ -2411,6 +2376,29 @@
     "fileHash": "sha256-d27256f3fd9c5ae0246d41f429bfa8f40b7423c50f428431f726aca9c5921ad1",
     "filesize": 879783,
     "hash": "d27256f3fd9c5ae0246d41f429bfa8f40b7423c50f428431f726aca9c5921ad1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DramaBox.cs3?v=3f215dab7dfa",
+    "status": 3,
+    "version": 23,
+    "name": "DramaBox",
+    "internalName": "DramaBox",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "dboxDRAMA · Popüler dikey kısa drama ve trend dizi akışları.",
+    "fileSize": 121426,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/dboxDRAMA.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-3f215dab7dfa8e9adcf43f7fb47e1176872d9f632a0ac7d8e413347111c5af87",
+    "filesize": 121426,
+    "hash": "3f215dab7dfa8e9adcf43f7fb47e1176872d9f632a0ac7d8e413347111c5af87"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=dramadizilerim.com",
@@ -3882,7 +3870,7 @@
     "fileHash": "sha256-bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/JestYayin.cs3?v=b42b08a9105f",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/JestYayin.cs3?v=b42b08a9105f",
     "status": 3,
     "version": 3,
     "name": "JestYayin",
@@ -3890,23 +3878,21 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "JestYayin canlı maçlar ve spor kanalları",
+    "description": "JestYayin canlÄ± maÃ§lar ve spor kanallarÄ±",
     "fileSize": 235405,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://www.jestyayin970.com/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa",
-    "filesize": 235405,
-    "hash": "b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa"
+    "fileHash": "sha256-b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa"
   },
   {
-    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 63,
+    "version": 60,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
@@ -3914,15 +3900,15 @@
       "ByAyzen"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 64337,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "fileSize": 61952,
+    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e"
+    "fileHash": "sha256-834376fc45083f40847fafc3ec7ad42305e12a3e74ec67545253fe356350898f"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.kalite18.net&sz=%size%",
@@ -4110,7 +4096,7 @@
     "repositoryUrl": "https://github.com/merb2y/cs-builds"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/KralSporHD.cs3?v=62c6cd0bd055",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/KralSporHD.cs3?v=62c6cd0bd055",
     "status": 3,
     "version": 5,
     "name": "KralSporHD",
@@ -4118,18 +4104,16 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "👑 Kaynak: KralSporHD · Emeği için teşekkürler ♥ · @wiojelt",
+    "description": "ğŸ‘‘ Kaynak: KralSporHD Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
     "fileSize": 176010,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KralSporHD.png",
     "apiVersion": 1,
-    "fileHash": "sha256-62c6cd0bd05570fa39c84f529de619ac61fe2b2d7fab83603311ab4af35ebb29",
-    "filesize": 176010,
-    "hash": "62c6cd0bd05570fa39c84f529de619ac61fe2b2d7fab83603311ab4af35ebb29"
+    "fileHash": "sha256-62c6cd0bd05570fa39c84f529de619ac61fe2b2d7fab83603311ab4af35ebb29"
   },
   {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/KraptorPlus.cs3",
@@ -4201,25 +4185,24 @@
     "repositoryUrl": "https://github.com/merb2y/cs-builds"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/LeoTV.cs3?v=dbce2939ae71",
-    "status": 3,
-    "version": 2,
     "name": "LeoTV",
     "internalName": "LeoTV",
+    "version": 2,
+    "description": "LeoTV / LeoGrand canlı spor ve TV yayınları (Dinamik AES-CBC akış çözücü)",
     "authors": [
       "Wiojelt"
     ],
-    "description": "LeoTV / LeoGrand canlı spor ve TV yayınları (Dinamik AES-CBC akış çözücü).",
-    "fileSize": 157849,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/LeoTV.cs3?v=dbce2939ae71",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LeoTV.png",
     "tvTypes": [
       "Live"
     ],
-    "apiVersion": 1,
+    "language": "tr",
+    "status": 3,
+    "fileSize": 157849,
     "fileHash": "sha256-dbce2939ae71d3d7e2f3ba69eab4e09a36689050eca6e5a91202280afddb9b3e",
-    "filesize": 157849,
-    "hash": "dbce2939ae71d3d7e2f3ba69eab4e09a36689050eca6e5a91202280afddb9b3e"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/LiderFilmIzle.cs3?v=e4760e93c9c2",
@@ -4356,7 +4339,7 @@
     "hash": "be1fa09cd281b1f0187b084daa3da4a0c9b881679043c9865eba081d71c88437"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/MahsunSports.cs3?v=25e1f1d1f863",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/MahsunSports.cs3?v=25e1f1d1f863",
     "status": 3,
     "version": 9,
     "name": "MahsunSports",
@@ -4364,18 +4347,16 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🟢 Kaynak: MahsunSports · Emeği için teşekkürler ♥ · @wiojelt",
+    "description": "ğŸŸ¢ Kaynak: MahsunSports Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
     "fileSize": 178888,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-25e1f1d1f863015e5c530db2be18148158281e4663e845bc46eea7be0306ded6",
-    "filesize": 178888,
-    "hash": "25e1f1d1f863015e5c530db2be18148158281e4663e845bc46eea7be0306ded6"
+    "fileHash": "sha256-25e1f1d1f863015e5c530db2be18148158281e4663e845bc46eea7be0306ded6"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=my.mail.ru&sz=%size%",
@@ -4459,27 +4440,27 @@
     "name": "MilliyetTV"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/MiniDiziIzle.cs3?v=8aac6b2adcf4",
-    "status": 1,
-    "version": 1,
-    "name": "MiniDiziIzle",
-    "internalName": "MiniDiziIzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Mini Dizi İzle — Türkçe dublajlı ve altyazılı mini dizi platformu.",
-    "fileSize": 110753,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/minidiziizle.png",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=minidiziizle.com&sz=%size%",
+    "fileHash": "sha256-6445eebc1890968081f88bb4cd895c50cabfc21be6d3d379ab6dae7ee627e47f",
     "apiVersion": 1,
-    "fileHash": "sha256-8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e",
-    "filesize": 110753,
-    "hash": "8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e"
+    "repositoryUrl": "https://github.com/Jung1330/StreamTest",
+    "fileSize": 17548,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Jung1330",
+      "StreamTest",
+      "AI-Assistant"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "Minidiziizle",
+    "description": "StreamTest - Mini Dizi İzle Türkçe Dublaj & Altyazılı Kısa/Mini Dizi Eklentisi (1080p HLS).",
+    "url": "https://raw.githubusercontent.com/Jung1330/StreamTest/builds/Minidiziizle.cs3",
+    "name": "Minidiziizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=%size%",
@@ -4820,7 +4801,7 @@
     "repositoryUrl": "https://github.com/merb2y/cs-builds"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/NetVGold.cs3?v=d1bf7dcba3da",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/NetVGold.cs3?v=d1bf7dcba3da",
     "status": 3,
     "version": 3,
     "name": "NetVGold",
@@ -4828,18 +4809,16 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "NETV Gold uygulamasının doğrulanmış spor kanalları",
+    "description": "NETV Gold uygulamasÄ±nÄ±n doÄŸrulanmÄ±ÅŸ spor kanallarÄ±",
     "fileSize": 230994,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d1bf7dcba3da7b13d21850505d7a3e297c0b5cf890fba0d3acfba352a0114b73",
-    "filesize": 230994,
-    "hash": "d1bf7dcba3da7b13d21850505d7a3e297c0b5cf890fba0d3acfba352a0114b73"
+    "fileHash": "sha256-d1bf7dcba3da7b13d21850505d7a3e297c0b5cf890fba0d3acfba352a0114b73"
   },
   {
     "iconUrl": "https://tv.newtane.com/favicon.ico",
@@ -4862,7 +4841,7 @@
     "name": "Newtv"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/NewTVLive.cs3?v=8c6a381eb8c0",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_NewTVLive_v4.cs3",
     "status": 3,
     "version": 4,
     "name": "NewTVLive",
@@ -4879,9 +4858,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/newtvlive.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8c6a381eb8c02bb98feab240f9fa40df467443a656d8537728ee061219112b82",
     "filesize": 180632,
-    "hash": "8c6a381eb8c02bb98feab240f9fa40df467443a656d8537728ee061219112b82"
+    "fileHash": "sha256-8c6a381eb8c02bb98feab240f9fa40df467443a656d8537728ee061219112b82"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=nowtv.com.tr&sz=%size%",
@@ -5073,25 +5051,24 @@
     "name": "P720pizle"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/PatronHD.cs3?v=ee04166393f2",
-    "status": 3,
-    "version": 17,
     "name": "PatronHD",
     "internalName": "PatronHD",
+    "version": 17,
+    "description": "ğŸ”´ Kaynak: PatronHD / Patronspor Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Kaynak: PatronHD / Patronspor · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 219044,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PatronHD.cs3?v=ee04166393f2",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png",
-    "apiVersion": 1,
+    "language": "tr",
+    "status": 3,
+    "fileSize": 219044,
     "fileHash": "sha256-ee04166393f2320c11ed8722d209ab4b7ba0a2f1a1b32fbc5ed08560824d49b3",
-    "hash": "ee04166393f2320c11ed8722d209ab4b7ba0a2f1a1b32fbc5ed08560824d49b3"
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-hdTlaRfTO3bpbNN57otxLOQ1iSvgBNOGkXCnePUFZ5bWcvNQEd4LsTWcckMOTA8WMDUZjgS7cz8Qe1DHnsnMz8KsFjr8jGx7OwGwFmAuhGVhiRbiPrJwHlSj_vT2RGIlKBE7Qw1jXBw0n74mZk5ltikRlLqjH24eBTTbeow_XT9Q3uFfR1lz1esWxQk/s230/logo.png",
@@ -5330,7 +5307,7 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-964d2447466b330b5356ffd596cd78794273b9d87d6a305e81759c46d4e1dbdd"
+    "fileHash": "sha256-c31c931e0d0305a0bfef3c779bb3a814f62e27da710f4c23bf45a5e2c2f2ca34"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
@@ -5440,7 +5417,7 @@
     "name": "SelcukFlix"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/SelcukSports.cs3?v=2c7813632c35",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_SelcukSports_v12.cs3",
     "status": 3,
     "version": 12,
     "name": "SelcukSports",
@@ -5457,8 +5434,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2c7813632c35dc645d652c03923124455b8acde7a8454cc922e65670b6ecf4b8",
-    "hash": "2c7813632c35dc645d652c03923124455b8acde7a8454cc922e65670b6ecf4b8"
+    "fileHash": "sha256-2c7813632c35dc645d652c03923124455b8acde7a8454cc922e65670b6ecf4b8"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=%size%",
@@ -5504,27 +5480,27 @@
     "fileHash": "sha256-fd92326fbb793368516b1d55a669337f85c8a77a98183544957bc25146b93a8d"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/SeyirTURK.cs3?v=d67d136d887a",
-    "status": 3,
-    "version": 13,
     "name": "SeyirTURK",
     "internalName": "SeyirTURK",
+    "version": 13,
+    "description": "SeyirTURK Â· Yerli ve yabancÄ± filmler, diziler ve canlÄ± TV kanallarÄ±",
     "authors": [
       "Wiojelt"
     ],
-    "description": "SeyirTURK · Yerli ve yabancı filmler, diziler ve canlı TV kanalları.",
-    "fileSize": 261847,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_SeyirTURK_v13.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/seyirturk.png",
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Live"
     ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 219696,
     "apiVersion": 1,
-    "fileHash": "sha256-d67d136d887adfb38463a402ed2bb9890cc4226200d74002def1aa16f30290d4",
-    "filesize": 261847,
-    "hash": "d67d136d887adfb38463a402ed2bb9890cc4226200d74002def1aa16f30290d4"
+    "filesize": 219696,
+    "fileHash": "sha256-eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
@@ -6022,7 +5998,7 @@
     "name": "StarTV"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/StbTV.cs3?v=64e0adef2cc4",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/StbTV.cs3?v=64e0adef2cc4",
     "status": 3,
     "version": 7,
     "name": "StbTV",
@@ -6030,18 +6006,16 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "Stalker STB Canlı TV & Spor. Linkler en az 2, en fazla 6 kişiliktir. Sağlam çalışan bir hat bulduğunuzda limit aşımı olmaması için sık kanal/hat değiştirmeyiniz.",
+    "description": "Stalker STB Canlı TV & Spor. Linkler en az 2, en fazla 6 kişiliktir. Kesintisiz canlı yayın akışı ve logo desteği.",
     "fileSize": 284811,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/stbtv.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StbTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-64e0adef2cc49216088b7f9df6002528f1af14bb75fe2c6a5a8054076bbd63ca",
-    "filesize": 284811,
-    "hash": "64e0adef2cc49216088b7f9df6002528f1af14bb75fe2c6a5a8054076bbd63ca"
+    "fileHash": "sha256-64e0adef2cc49216088b7f9df6002528f1af14bb75fe2c6a5a8054076bbd63ca"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/StreamEast.cs3?v=1580e234f1ab",
@@ -6066,7 +6040,7 @@
     "hash": "1580e234f1abc0085041633e9be89d6cc93982741f497074e6370380bf59328f"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/Streamed.cs3?v=779e29401bfa",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/Streamed.cs3?v=779e29401bfa",
     "status": 3,
     "version": 3,
     "name": "Streamed",
@@ -6074,18 +6048,16 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🟢 Kaynak: Streamed • @Kraptor123 | @kekikanime · Futbol, Basketbol, Tenis, Kriket, Dövüş ve daha fazlası.",
+    "description": "ğŸŸ¢ Kaynak: Streamed â€¢ @Kraptor123 | @kekikanime Â· Futbol, Basketbol, Tenis, Kriket, DÃ¶vÃ¼ÅŸ ve daha fazlasÄ±.",
     "fileSize": 169440,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Streamed.png",
     "apiVersion": 1,
-    "fileHash": "sha256-779e29401bfa0617bce8094d3ab5dfff85dfea354e79d88a70e24ed9fa4614b0",
-    "filesize": 169440,
-    "hash": "779e29401bfa0617bce8094d3ab5dfff85dfea354e79d88a70e24ed9fa4614b0"
+    "fileHash": "sha256-779e29401bfa0617bce8094d3ab5dfff85dfea354e79d88a70e24ed9fa4614b0"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=superfilmizle.icu&sz=%size%",
@@ -6152,7 +6124,7 @@
     "name": "TabiiProvider"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/Taraftarium24.cs3?v=e56f19bb0def",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_Taraftarium24_v14.cs3",
     "status": 3,
     "version": 14,
     "name": "Taraftarium24",
@@ -6169,9 +6141,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e56f19bb0defe1e321e964a5b30fc72759c5351c169fdfc8d476ffca858c4d69",
     "filesize": 175648,
-    "hash": "e56f19bb0defe1e321e964a5b30fc72759c5351c169fdfc8d476ffca858c4d69"
+    "fileHash": "sha256-e56f19bb0defe1e321e964a5b30fc72759c5351c169fdfc8d476ffca858c4d69"
   },
   {
     "iconUrl": "https://www.tekfullfilmizle6.com/wp-content/themes/keremiya/images/icon/favicon-32x32.png",
@@ -6395,7 +6366,7 @@
     "name": "TrDiziIzle"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TRGoals.cs3?v=b6fd54dc05d4",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_TRGoals_v3.cs3",
     "status": 3,
     "version": 3,
     "name": "TRGoals",
@@ -6412,12 +6383,11 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b6fd54dc05d497e55c6476e00e7a594cdb69df610d2ba5c58e5ab378904c7dbd",
     "filesize": 232719,
-    "hash": "b6fd54dc05d497e55c6476e00e7a594cdb69df610d2ba5c58e5ab378904c7dbd"
+    "fileHash": "sha256-b6fd54dc05d497e55c6476e00e7a594cdb69df610d2ba5c58e5ab378904c7dbd"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TRLive.cs3?v=cc2a0bdc3476",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_TRLive_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "TRLive",
@@ -6434,9 +6404,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRLive.png",
     "apiVersion": 1,
-    "fileHash": "sha256-cc2a0bdc3476df31149cf868351ac12ac0da55829157d663763c9f2757c79162",
     "filesize": 12265,
-    "hash": "cc2a0bdc3476df31149cf868351ac12ac0da55829157d663763c9f2757c79162"
+    "fileHash": "sha256-cc2a0bdc3476df31149cf868351ac12ac0da55829157d663763c9f2757c79162"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=trt1.com.tr&sz=%size%",
@@ -6716,7 +6685,7 @@
     "repositoryUrl": "https://github.com/merb2y/cs-builds"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSpor.cs3?v=21c99ad664d4",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_TurkSpor_v6.cs3",
     "status": 3,
     "version": 6,
     "name": "TurkSpor",
@@ -6733,9 +6702,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-21c99ad664d4d3f7c29a3340d761fb3e2ce83c162e02d7f6a9549e921d255aff",
     "filesize": 451878,
-    "hash": "21c99ad664d4d3f7c29a3340d761fb3e2ce83c162e02d7f6a9549e921d255aff"
+    "fileHash": "sha256-21c99ad664d4d3f7c29a3340d761fb3e2ce83c162e02d7f6a9549e921d255aff"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png",
@@ -7267,7 +7235,7 @@
     "hash": "8d8342228837d7dd6219365fcbe51c6700662c212cc1f28a44804cedfd20a6ab"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/WioSpor.cs3?v=fb6a4caa5b38",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_WioSpor_v59.cs3",
     "status": 3,
     "version": 59,
     "name": "WioSpor",
@@ -7284,12 +7252,11 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
     "apiVersion": 1,
-    "fileHash": "sha256-fb6a4caa5b38bf5fede57b5a5cf60f8ff9ecf81aeede488d5094024ea8b6534e",
     "filesize": 846406,
-    "hash": "fb6a4caa5b38bf5fede57b5a5cf60f8ff9ecf81aeede488d5094024ea8b6534e"
+    "fileHash": "sha256-fb6a4caa5b38bf5fede57b5a5cf60f8ff9ecf81aeede488d5094024ea8b6534e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/WioSync.cs3?v=05839cdc2a86",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_WioSync_v2.cs3",
     "status": 3,
     "version": 2,
     "name": "WioSync",
@@ -7306,9 +7273,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-05839cdc2a86c6f664e97550ae4598326de5d2ccb780be8a06e0b41784ee229e",
     "filesize": 167262,
-    "hash": "05839cdc2a86c6f664e97550ae4598326de5d2ccb780be8a06e0b41784ee229e"
+    "fileHash": "sha256-05839cdc2a86c6f664e97550ae4598326de5d2ccb780be8a06e0b41784ee229e"
   },
   {
     "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/XPrime.cs3",
@@ -7563,10 +7529,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/main/Zdizi/zd-icon.png",
-    "fileHash": "sha256-8db2044f5f163f8dfd2b6b8ea907679a957fa87b6445da0c2098bc29a0d22bef",
+    "fileHash": "sha256-c308be5c4a8fef47cf3c2bb7429fbf29ab6743f0458dc95eec3f35272e8454f2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Bymesut1/Kartaloglu-cs",
-    "fileSize": 95331,
+    "fileSize": 108829,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -7576,7 +7542,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 14,
+    "version": 18,
     "internalName": "Zdizi",
     "description": "Zdizi: yabancı dizi ve film izle (Türkçe altyazı / dublaj)",
     "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/Zdizi.cs3",
