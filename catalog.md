@@ -22,7 +22,7 @@ Otomatik doğrulanan ve aktif Türkçe CloudStream eklenti depoları:
 - [CloudStream TR](cloudstreamrepo://raw.githubusercontent.com/Emre-Kahveci/CloudStreamHub/builds/repo.json) — RepoScore 82.8/100 — 25 eklenti — ana kaynak
 - [Kartaloglu-cs](cloudstreamrepo://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/main/repo.json) — RepoScore 82.2/100 — 36 eklenti
 - [MegaWio](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioLand/builds/repo.json) — RepoScore 81.7/100 — 1 eklenti — ana kaynak
-- [StreamTest](cloudstreamrepo://raw.githubusercontent.com/Jung1330/StreamTest/main/repo.json) — RepoScore 80.7/100 — 22 eklenti
+- [StreamTest](cloudstreamrepo://raw.githubusercontent.com/Jung1330/StreamTest/main/repo.json) — RepoScore 81.3/100 — 25 eklenti
 - [Manitux Cloudstream Plugins](cloudstreamrepo://raw.githubusercontent.com/manitux-app/cs-plugins/main/repo.json) — RepoScore 80.5/100 — 9 eklenti — ana kaynak
 - [SALOORepo](cloudstreamrepo://raw.githubusercontent.com/Saloo1575/SalooRepo/builds/repo.json) — RepoScore 80.5/100 — 7 eklenti
 - [WioAsya](cloudstreamrepo://raw.githubusercontent.com/Wiojelt/WioAsya/builds/repo.json) — RepoScore 79.9/100 — 7 eklenti — ana kaynak

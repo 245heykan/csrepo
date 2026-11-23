@@ -1139,6 +1139,26 @@
     "hash": "1d9ba5e7432350adcf88eb5318a4773ba300383287a380912c08c1da59d6259e"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cumhuriyet.com.tr&sz=%size%",
+    "fileHash": "sha256-e2e97ad001f792dc64819cc3266971f4a126a12e5890cba6823d7f6edd98df49",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/JustSadY/Cloudstream-Lykia",
+    "fileSize": 14206,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "JustSadY"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 1,
+    "internalName": "CumhuriyetTV",
+    "description": "Cumhuriyet TV'nin video haberlerini Dailymotion üzerinden izleyin",
+    "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/CumhuriyetTV.cs3",
+    "name": "CumhuriyetTV"
+  },
+  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DaddyLive.cs3?v=dcdfb3739406",
     "status": 3,
     "version": 5,
@@ -1946,25 +1966,26 @@
     "fileHash": "sha256-d329b64dceff166e0e47722b53590e68fa2290cd50199910b4549cae70e8c759"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal3008.com&sz=%size%",
-    "fileHash": "sha256-5e2409f75e83bb0ff39633caa93059e86f032073733f3dea35acce3d34b76403",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/JustSadY/Cloudstream-Lykia",
-    "fileSize": 29334,
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziPal.cs3",
     "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustSadY"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "version": 1,
+    "version": 91,
+    "name": "DiziPal",
     "internalName": "DiziPal",
-    "description": "DiziPal ile dizileri ve filmleri Türkçe dublaj veya altyazılı olarak hızlı ve güvenli şekilde izleyin.",
-    "url": "https://raw.githubusercontent.com/JustSadY/Cloudstream-Lykia/builds/DiziPal.cs3",
-    "name": "DiziPal"
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "En yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "fileSize": 43227,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-a4cde3785db1d8b20aa4adb76d910947ffc79e8cc8e165d378a352e3b89cb796"
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPalOriginal_v117.cs3",
@@ -2011,6 +2032,27 @@
     "apiVersion": 1,
     "filesize": 236781,
     "fileHash": "sha256-bb14abc358aa1dfb6c1778aecf4f713e10effe500884a03ec9a9f04e9dec33a9"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2142.com&sz=%size%",
+    "fileHash": "sha256-93c42668080b27a0c6b4d03d92022fd1a3aad0c2a1411b8c1ab4e7f6a7a6b19c",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 40969,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 9,
+    "internalName": "DiziPal2",
+    "description": "DiziPal2 - En yeni yabancı dizi ve filmler için hızlı erişim.",
+    "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/DiziPal2.cs3",
+    "name": "DiziPal2"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal.bid&sz=%size%",
@@ -3890,9 +3932,9 @@
     "fileHash": "sha256-b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 60,
+    "version": 63,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
@@ -3900,15 +3942,15 @@
       "ByAyzen"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 61952,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "fileSize": 64337,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-834376fc45083f40847fafc3ec7ad42305e12a3e74ec67545253fe356350898f"
+    "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.kalite18.net&sz=%size%",
@@ -5307,7 +5349,7 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-c31c931e0d0305a0bfef3c779bb3a814f62e27da710f4c23bf45a5e2c2f2ca34"
+    "fileHash": "sha256-1a0d3f24abd1f566e366d3b0dad9ea86aa2f660eb0464d43952b5dff0a8d2cc4"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
@@ -5330,27 +5372,6 @@
     "description": "RecTV BC - Canlı kanallar, spor yayınları, film ve diziler (API tabanlı).",
     "url": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/RecTVBC.cs3",
     "name": "RecTVBC"
-  },
-  {
-    "iconUrl": "https://reelpulse.org/favicon.ico",
-    "fileHash": "sha256-0fca962d86d32f57e6e2c60d2be18b36898c6d7432c10d870d073282ca61ad6b",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 24760,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Kayracs3"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "Reelpulse",
-    "description": "ReelPulse otomatik sağlayıcısı",
-    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/Reelpulse.cs3",
-    "name": "Reelpulse"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.life&sz=%size%",
