@@ -170,7 +170,7 @@
     "fileHash": "sha256-14388a4ef912b6d910dd14396fee59948e3e5470b9f70fc30e5f1deafd2d7140"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/AnizmProvider.cs3?v=b7d62ac59f41",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_AnizmProvider_v24.cs3",
     "status": 1,
     "version": 24,
     "name": "AnizmProvider",
@@ -189,8 +189,7 @@
     ],
     "iconUrl": "https://anizm.com.tr/images/logo_128x128.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3",
-    "hash": "b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
+    "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
   },
   {
     "name": "Arcana Drama",
@@ -1234,7 +1233,7 @@
     "fileHash": "sha256-a6a26820edeb5a7e79256fa169b2f873ca3113c8aaf7292f2aa17ba03356e313"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DDiziAlternatif.cs3?v=4918bbc2cf17",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DDiziAlternatif_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "DDiziAlternatif",
@@ -1254,8 +1253,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4918bbc2cf171d5146a27e6684ed72e2b6aa7bb270503ca26493fec03dee4ab1",
-    "hash": "4918bbc2cf171d5146a27e6684ed72e2b6aa7bb270503ca26493fec03dee4ab1"
+    "fileHash": "sha256-4918bbc2cf171d5146a27e6684ed72e2b6aa7bb270503ca26493fec03dee4ab1"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ddizimag2.icu&sz=%size%",
@@ -1726,7 +1724,7 @@
     "name": "DiziIzle"
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziKorea_v41.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
     "status": 1,
     "version": 41,
     "name": "DiziKorea",
@@ -1933,7 +1931,7 @@
     "name": "Dizimanya"
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziMom_v64.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
     "status": 1,
     "version": 64,
     "name": "DiziMom",
@@ -2285,7 +2283,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziWatch.cs3?v=22a24ab5f0d8",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziWatch_v12.cs3",
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziwatch.app&sz=128",
     "tvTypes": [
       "Anime",
@@ -2294,9 +2292,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 110804,
-    "fileHash": "sha256-22a24ab5f0d8789a675b0b225bb8138fed61781fd3296cc5c0b7c4069249056e",
     "apiVersion": 1,
-    "hash": "22a24ab5f0d8789a675b0b225bb8138fed61781fd3296cc5c0b7c4069249056e"
+    "fileHash": "sha256-22a24ab5f0d8789a675b0b225bb8138fed61781fd3296cc5c0b7c4069249056e"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/DiziYo.cs3",
@@ -3014,7 +3011,7 @@
     "name": "Flix"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FlixNetwork.cs3?v=88546e57785f",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_FlixNetwork_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "FlixNetwork",
@@ -3034,8 +3031,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-88546e57785f9dfa1554d898a39223f71db7aad38b9894b0af8c383cfb366ed8",
-    "hash": "88546e57785f9dfa1554d898a39223f71db7aad38b9894b0af8c383cfb366ed8"
+    "fileHash": "sha256-88546e57785f9dfa1554d898a39223f71db7aad38b9894b0af8c383cfb366ed8"
   },
   {
     "url": "https://raw.githubusercontent.com/dr-octagon/Cloudstream-BronzeCloud/builds/FrameXTV_v3.cs3",
@@ -3080,27 +3076,6 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=%size%",
     "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/FullHDFilmizlesene.cs3",
-    "status": 1,
-    "version": 74,
-    "name": "FullHDFilmizlesene",
-    "internalName": "FullHDFilmizlesene",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 144765,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
-    "apiVersion": 1,
-    "fileHash": "sha256-a5e16f294f5d7fcc093e918560fe8b9dbbf42f8df84cb46de105ac9849c15d36"
   },
   {
     "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/FullHDIzle.cs3",
@@ -3909,7 +3884,7 @@
     "name": "IzleFilm"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/IzleOyna.cs3?v=bcd8b61b979d",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_IzleOyna_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "IzleOyna",
@@ -3928,8 +3903,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f",
-    "hash": "bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f"
+    "fileHash": "sha256-bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/JestYayin.cs3?v=b42b08a9105f",
@@ -3952,9 +3926,9 @@
     "fileHash": "sha256-b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa"
   },
   {
-    "url": "https://raw.githubusercontent.com/hrtestingx/hrcsrepofull/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 60,
+    "version": 63,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
@@ -3962,15 +3936,15 @@
       "ByAyzen"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 61952,
-    "repositoryUrl": "https://github.com/hrtestingx/hrcsrepofull",
+    "fileSize": 64337,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-834376fc45083f40847fafc3ec7ad42305e12a3e74ec67545253fe356350898f"
+    "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/KacakSpor.cs3?v=7932cf040989",
@@ -3992,26 +3966,6 @@
     "fileHash": "sha256-7932cf04098961f00c646efd54e4ab6fa564d8cad6bb08fba7d2f6754d17fdf0",
     "filesize": 158964,
     "hash": "7932cf04098961f00c646efd54e4ab6fa564d8cad6bb08fba7d2f6754d17fdf0"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.kalite18.net&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 12776,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "version": 2,
-    "internalName": "Kalite18",
-    "description": "Kalite18, sizlere porno filmleri HD kalite ve türkçe altyazılı olarak izleme keyfi sunmaktadır. Porno ve sex filmlerini anlayarak 31 çekmenin keyfini çıkarın.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Kalite18.cs3",
-    "name": "Kalite18",
-    "fileHash": "sha256-390fb9265a4eb5c3d13f774d9eb2264b36ea8aa7c234a45af4d4c35f42d20775"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=kanal7.com&sz=%size%",
@@ -4124,7 +4078,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Konflix.cs3?v=4aed8bd1f6d5",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_Konflix_v1.cs3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/konflix.png",
     "tvTypes": [
       "Movie",
@@ -4134,9 +4088,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 113599,
-    "fileHash": "sha256-4aed8bd1f6d59722a458776aa1f968ef61cdfbd423108685f9ccb48a36d98119",
     "apiVersion": 1,
-    "hash": "4aed8bd1f6d59722a458776aa1f968ef61cdfbd423108685f9ccb48a36d98119"
+    "fileHash": "sha256-4aed8bd1f6d59722a458776aa1f968ef61cdfbd423108685f9ccb48a36d98119"
   },
   {
     "internalName": "KoolTV",
@@ -4456,6 +4409,24 @@
     "description": "my.mail.ru kullanıcı yüklemeleri: Türkçe dublajlı filmler",
     "url": "https://raw.githubusercontent.com/Bymesut1/Kartaloglu-cs/builds/MailRu.cs3",
     "name": "MailRu"
+  },
+  {
+    "name": "Matchora Live",
+    "internalName": "Matchora",
+    "version": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "lang": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/matchora.png",
+    "description": "Matchora Live · Canlı spor karşılaşmaları ve uluslararası spor kanalları (beIN, S Sport, Sky, Canal+).",
+    "authors": [
+      "Wiojelt"
+    ],
+    "status": 1,
+    "fileSize": 157456,
+    "fileHash": "sha256-0d13aa9b19f8adb67e5cced391a3d56af37b68c80a7cf6b151ee0ee8d0bf3499",
+    "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/Matchora.cs3?v=0d13aa9b19f8"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=medyahaber.com&sz=%size%",
@@ -5020,6 +4991,24 @@
     "name": "Okru"
   },
   {
+    "name": "OnDemand TV",
+    "internalName": "OnDemand",
+    "version": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "lang": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/ondemand.png",
+    "description": "OnDemand TV · 500+ canlı spor ve uluslararası TV kanalı (beIN, Sky, DAZN, ESPN).",
+    "authors": [
+      "Wiojelt"
+    ],
+    "status": 1,
+    "fileSize": 156680,
+    "fileHash": "sha256-1c33d5cb777c69ed088fb62175ea9fc753f8313e3564eed69e82f0a472ebabce",
+    "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/OnDemand.cs3?v=1c33d5cb777c"
+  },
+  {
     "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/OnePaceTr.cs3",
     "status": 1,
     "version": 14,
@@ -5163,26 +5152,6 @@
     "name": "PatronSH"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=pornoanne.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 11636,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "version": 3,
-    "internalName": "PornoAnne",
-    "description": "Porno Anne ile en kaliteli HD porno filmleri burada! Sex videoları ve sikiş sahneleri ile dolu anlara ücretsiz porno izle yazarak ulaş ve sikiş seyret.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/PornoAnne.cs3",
-    "name": "PornoAnne",
-    "fileHash": "sha256-613b3d29ad163e8085a4ed63dfa0a353af40b494aac9b9e03f4221c511793b9f"
-  },
-  {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/GitLatte/Sinetech",
@@ -5311,7 +5280,7 @@
     "name": "PuhuTV"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/RareFilmm.cs3?v=782a8d55abf8",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_RareFilmm_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "RareFilmm",
@@ -5331,11 +5300,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-782a8d55abf8b854db5e46b07592a96f177e66176cf1e9f2b6d14deb6e40358f",
-    "hash": "782a8d55abf8b854db5e46b07592a96f177e66176cf1e9f2b6d14deb6e40358f"
+    "fileHash": "sha256-782a8d55abf8b854db5e46b07592a96f177e66176cf1e9f2b6d14deb6e40358f"
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_RecTV_v118.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
     "status": 1,
     "version": 118,
     "name": "RecTV",
@@ -5379,7 +5347,7 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-d6fed07858850e862272902d7ed7df5314af2e0d6e5e91d6ea1a6fb10b9d5593"
+    "fileHash": "sha256-d469bf5ccbdcbc91852c5811e30d836d8cdf82efb0596f78d8f7cd41591dd20a"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
@@ -5559,7 +5527,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SeyirTURK.cs3?v=eb79546afa08",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_SeyirTURK_v13.cs3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/seyirturk.png",
     "tvTypes": [
       "Movie",
@@ -5569,9 +5537,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 219696,
-    "fileHash": "sha256-eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3",
     "apiVersion": 1,
-    "hash": "eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3"
+    "fileHash": "sha256-eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
@@ -5787,7 +5754,7 @@
     "fileHash": "sha256-33af1a8f2239fca075a6d6575e0452735c6703f91188080871707b1df70ee6b2"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SinemaGG.cs3?v=0af192012a76",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_SinemaGG_v2.cs3",
     "status": 3,
     "version": 2,
     "name": "SinemaGG",
@@ -5807,8 +5774,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemacc.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0af192012a76ba180091460ed8f47a1eb67a10f14388fb676056ecaa52b63b63",
-    "hash": "0af192012a76ba180091460ed8f47a1eb67a10f14388fb676056ecaa52b63b63"
+    "fileHash": "sha256-0af192012a76ba180091460ed8f47a1eb67a10f14388fb676056ecaa52b63b63"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemaizle.org&sz=%size%",
@@ -6127,24 +6093,25 @@
     "fileHash": "sha256-779e29401bfa0617bce8094d3ab5dfff85dfea354e79d88a70e24ed9fa4614b0"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
-    "fileHash": "sha256-191119f5439187585e1dbd2b6ffbf00badb35bbc71a21e48528b72a572f6daad",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=superfilmizle.icu&sz=%size%",
+    "fileHash": "sha256-25323525d8e0078fcb7013d4ed39bd30bf96d5c5583e936127efd896f745646d",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/PobloMert/PobloStream",
-    "fileSize": 20110,
+    "repositoryUrl": "https://github.com/neoser1984/neowatch",
+    "fileSize": 37128,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun",
-      "Ahmet"
+      "NeO"
     ],
     "tvTypes": [
-      "Movie"
+      "Movie",
+      "TvSeries",
+      "Anime"
     ],
-    "version": 23,
+    "version": 8,
     "internalName": "SuperFilmGeldi",
-    "description": "Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
-    "url": "https://raw.githubusercontent.com/PobloMert/PobloStream/builds/SuperFilmGeldi.cs3",
+    "description": "SuperFilmGeldi (artık superfilmizle.icu) — film, dizi ve anime izle. Türkçe dublaj ve altyazı seçenekleriyle.",
+    "url": "https://raw.githubusercontent.com/neoser1984/neowatch/builds/SuperFilmGeldi.cs3",
     "name": "SuperFilmGeldi"
   },
   {
@@ -6332,26 +6299,6 @@
     "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=turkceanime.com&sz=%size%",
-    "fileHash": "sha256-f1628a835317f0ce54b682b78595a9afae51e73f242797d9bbfba14684174a32",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
-    "fileSize": 116188,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "F0Rextasy"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 4,
-    "internalName": "Toruko",
-    "description": "TORUKO — Türkçe altyazılı anime izle (turkceanime.com)",
-    "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/Toruko.cs3",
-    "name": "Toruko"
-  },
-  {
     "name": "TR Sesli Kitap",
     "internalName": "TRSesliKitap",
     "version": 1,
@@ -6368,10 +6315,10 @@
     "status": 1,
     "fileSize": 102813,
     "fileHash": "sha256-c041f54f294db566c2d9401289ae1aa38812dc08988aabdb583891aceb004017",
-    "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/TRSesliKitap.cs3"
+    "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/TRSesliKitap.cs3?v=c041f54f294d"
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_TRanimaci_v19.cs3",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRanimaci.cs3",
     "status": 1,
     "version": 19,
     "name": "TRanimaci",
@@ -6412,24 +6359,28 @@
     "fileHash": "sha256-68f85490caaa6a23f5f09504c05698e76c0b780af6ef5db3d81d88eb3ee7e716"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=%size%",
-    "fileHash": "sha256-8949875560ecddf65c25e2329cc1fcb2f429755013a64278a7ea09e1907ebce3",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kayracs3/Kayra",
-    "fileSize": 87650,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TrDiziIzle.cs3?v=43085f24e496",
     "status": 1,
-    "language": "tr",
-    "authors": [
-      "Kayracs3"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 25,
+    "version": 9,
+    "name": "TrDiziIzle",
     "internalName": "TrDiziIzle",
-    "description": "TRDiziIzle — dizi ve film sağlayıcısı",
-    "url": "https://raw.githubusercontent.com/Kayracs3/Kayra/builds/TrDiziIzle.cs3",
-    "name": "TrDiziIzle"
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 139163,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-43085f24e496bd549e9c16a727f2fe2a5561e8d6aa96fcf4d4a5d41235c816c9",
+    "hash": "43085f24e496bd549e9c16a727f2fe2a5561e8d6aa96fcf4d4a5d41235c816c9"
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_TRGoals_v3.cs3",
@@ -6556,24 +6507,25 @@
     "fileHash": "sha256-d3b90b65c99940f64d27d30187a248da0122a2d9f248b4431fbcdf22e184d5b5"
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_TurkAnime_v14.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=turkanime.to&sz=%size%",
+    "fileHash": "sha256-8d4be38a6cc3c96731aa2cba1319972215790adccbddb82c6c1e1b482275e0e6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/PobloMert/PobloStream",
+    "fileSize": 13405,
     "status": 1,
-    "version": 14,
-    "name": "TurkAnime",
-    "internalName": "TurkAnime",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "fileSize": 19087,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun",
+      "Ahmet"
+    ],
     "tvTypes": [
       "Anime"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-d7ee0b46c87af55f42f080972f05e610fe2e0b21a7e7858dc80c171d2e308fa7"
+    "version": 17,
+    "internalName": "TurkAnime",
+    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/PobloMert/PobloStream/builds/TurkAnime.cs3",
+    "name": "TurkAnime"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=turkanime.live&sz=%size%",
@@ -6595,29 +6547,6 @@
     "description": "Türk Anime TV — Türkçe altyazılı anime izle (turkanime.live)",
     "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/TurkAnimeTV.cs3",
     "name": "TurkAnimeTV"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkceCizgiFilmArsivi.cs3?v=243d686ac1c3",
-    "status": 1,
-    "version": 1,
-    "name": "TurkceCizgiFilmArsivi",
-    "internalName": "TurkceCizgiFilmArsivi",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "WioKids · Turkcecizgifilmarsivi.online çizgi film ve animasyon arşivi",
-    "fileSize": 109197,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon",
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=turkcecizgifilmarsivi.online&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-243d686ac1c3c47a3385180bdd05e5bfbbe4a5d85cffb9eccebe70227031c80d",
-    "hash": "243d686ac1c3c47a3385180bdd05e5bfbbe4a5d85cffb9eccebe70227031c80d"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=turkcedizi.com&sz=%size%",
@@ -7212,28 +7141,7 @@
     "name": "Weboo"
   },
   {
-    "url": "https://raw.githubusercontent.com/arcilingir/Dizi_Film_2/builds/WebteIzle.cs3",
-    "status": 1,
-    "version": 59,
-    "name": "WebteIzle",
-    "internalName": "WebteIzle",
-    "authors": [
-      "keyiflerolsun",
-      "nikyokki"
-    ],
-    "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "fileSize": 35303,
-    "repositoryUrl": "https://github.com/arcilingir/Dizi_Film_2",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-cdfa54fcb567d500705525c1c7d2764d1522c751383e3ed2c9b3e6097918e7fc"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Wfilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_Wfilmizle_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "Wfilmizle",
@@ -7650,5 +7558,23 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/merb1y/cloudstream-tr-repo/main/assets/logos/bein1.png",
     "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
+  },
+  {
+    "name": "ZLive Spor",
+    "internalName": "ZLive",
+    "version": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "lang": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/zlive.png",
+    "description": "ZLive Spor · Canlı spor ve dünya kanalları (beIN Sports, TRT, Sky Sports, DAZN).",
+    "authors": [
+      "Wiojelt"
+    ],
+    "status": 1,
+    "fileSize": 155998,
+    "fileHash": "sha256-8c16b26fdfd602f26b559f4ea62d3a30e80cd6aefaf937a593008eeaccb0c3cc",
+    "url": "https://raw.githubusercontent.com/Wiojelt/test/builds/ZLive.cs3?v=8c16b26fdfd6"
   }
 ]
