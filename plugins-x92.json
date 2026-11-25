@@ -795,24 +795,24 @@
     "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Catcast.cs3?v=5a332e04a042",
-    "status": 3,
-    "version": 3,
     "name": "Catcast TV",
     "internalName": "Catcast",
+    "version": 3,
+    "description": "Catcast TV · Sadece Türkçe Canlı Kanallar (Ulusal, Haber, Sinema, Dizi, Spor, Müzik, Çocuk, Belgesel)",
     "authors": [
       "Wiojelt"
     ],
-    "description": "Catcast TV · Sadece Türkçe Canlı Kanallar (Ulusal, Haber, Sinema, Dizi, Spor, Müzik, Çocuk, Belgesel)",
-    "fileSize": 123479,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Catcast.cs3?v=5a332e04a042",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/assets/catcast.png",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/catcast.png",
-    "apiVersion": 1,
+    "language": "tr",
+    "status": 1,
+    "fileSize": 123479,
     "fileHash": "sha256-5a332e04a042d061baf516bc240e945cb3e93953653d95b48e5a557a317c9684",
+    "apiVersion": 1,
     "hash": "5a332e04a042d061baf516bc240e945cb3e93953653d95b48e5a557a317c9684"
   },
   {
@@ -1285,8 +1285,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Deokwave.cs3?v=6accd7841331",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Deokwave.cs3?v=6accd7841331",
     "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=128",
     "tvTypes": [
       "Anime",
@@ -1294,7 +1294,7 @@
       "OVA"
     ],
     "language": "tr",
-    "status": 3,
+    "status": 1,
     "fileSize": 132083,
     "fileHash": "sha256-6accd78413312f8fea00180b34296a2ecb0a8072e57ffe351a932cfae09840d6",
     "apiVersion": 1,
@@ -2039,7 +2039,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "filesize": 236781,
     "fileHash": "sha256-bb14abc358aa1dfb6c1778aecf4f713e10effe500884a03ec9a9f04e9dec33a9"
   },
   {
@@ -2086,7 +2085,7 @@
     "name": "DizipalExtended"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=c9bc8c46b45f",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalHub.cs3?v=d7d1e1b94b7b",
     "status": 3,
     "version": 28,
     "name": "DiziPalHub",
@@ -2285,15 +2284,15 @@
     "authors": [
       "Wiojelt"
     ],
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziWatch.cs3?v=22a24ab5f0d8",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziWatch.cs3?v=22a24ab5f0d8",
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziwatch.app&sz=128",
     "tvTypes": [
       "Anime",
       "TvSeries"
     ],
     "language": "tr",
-    "status": 3,
+    "status": 1,
     "fileSize": 110804,
     "fileHash": "sha256-22a24ab5f0d8789a675b0b225bb8138fed61781fd3296cc5c0b7c4069249056e",
     "apiVersion": 1,
@@ -2321,25 +2320,24 @@
     "fileHash": "sha256-6717e2b43060376e41a6559c987446aab24a138c7d2b2d972064abfcd6d3a744"
   },
   {
-    "internalName": "DiziYou",
-    "name": "DiziYou",
-    "version": 1029,
-    "url": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main/plugins/DiziYou.cs3",
-    "fileHash": "sha256-8056c3e7b17d630fc4fbe5d43f28e9333ef2e455b32832cbc640629540fccc22",
-    "fileSize": 15258,
+    "url": "https://raw.githubusercontent.com/aytzey/cs-kraptor/builds/DiziYou.cs3",
     "status": 1,
-    "apiVersion": 1,
-    "language": "tr",
+    "version": 50,
+    "name": "DiziYou",
+    "internalName": "DiziYou",
     "authors": [
-      "Wiojelt",
-      "keyiflerolsun"
+      "ByAyzen"
     ],
-    "description": "DiziYou - 1150+ dizi ve doÄŸrudan 1080p M3U8 hÄ±zlÄ± oynatÄ±cÄ±",
+    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "fileSize": 57071,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
-    "repositoryUrl": "https://raw.githubusercontent.com/merb2y/cloudstream-tr-repo/main"
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co",
+    "apiVersion": 1,
+    "fileHash": "sha256-aa14dbbb0c2e40a530a6a25de829f953ef1253c05ef1ca531c5b74137ad822b3"
   },
   {
     "internalName": "DMax",
@@ -3372,8 +3370,8 @@
     "name": "HDFilmizleBest"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmIzleInk.cs3?v=90520e065def",
-    "status": 3,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleInk.cs3?v=90520e065def",
+    "status": 1,
     "version": 11,
     "name": "HDFilmIzleInk",
     "internalName": "HDFilmIzleInk",
@@ -3382,7 +3380,7 @@
     ],
     "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
     "fileSize": 131377,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -3396,8 +3394,8 @@
     "hash": "90520e065def4b52c12328074d1c4c7269865ad9c81bb46588385264a77f9996"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmIzleVip.cs3?v=9f2a0e4a4ca1",
-    "status": 3,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleVip.cs3?v=9f2a0e4a4ca1",
+    "status": 1,
     "version": 11,
     "name": "HDFilmIzleVip",
     "internalName": "HDFilmIzleVip",
@@ -3406,7 +3404,7 @@
     ],
     "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
     "fileSize": 131394,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -4289,8 +4287,8 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/LiderFilmIzle.cs3?v=e4760e93c9c2",
-    "status": 3,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/LiderFilmIzle.cs3?v=e4760e93c9c2",
+    "status": 1,
     "version": 10,
     "name": "LiderFilmIzle",
     "internalName": "LiderFilmIzle",
@@ -4299,7 +4297,7 @@
     ],
     "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
     "fileSize": 139271,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
       "Movie",
@@ -5381,7 +5379,7 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-1a0d3f24abd1f566e366d3b0dad9ea86aa2f660eb0464d43952b5dff0a8d2cc4"
+    "fileHash": "sha256-d6fed07858850e862272902d7ed7df5314af2e0d6e5e91d6ea1a6fb10b9d5593"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
@@ -7235,7 +7233,7 @@
     "fileHash": "sha256-cdfa54fcb567d500705525c1c7d2764d1522c751383e3ed2c9b3e6097918e7fc"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Wfilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Wfilmizle.cs3",
     "status": 3,
     "version": 1,
     "name": "Wfilmizle",
@@ -7245,7 +7243,7 @@
     ],
     "description": "Wfilmizle · TurkSinema ayrı sağlayıcı paketi",
     "fileSize": 118964,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
       "Movie"
