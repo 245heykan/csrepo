@@ -507,6 +507,28 @@
     "fileHash": "sha256-f1fc2ce7dda220ee97667578d4c6538acbf8a8faac50d8485bca2f31f8304fd4"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxen.top&sz=%size%",
+    "fileHash": "sha256-21f682bdc9d17ebeb91b6740f2bf3493e67a1b98aab203da89dcaf2ff35c8ebb",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 180756,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Live"
+    ],
+    "version": 6,
+    "internalName": "InatTV",
+    "description": "İnatTV — imzalı API üzerinden film, dizi, platform ve canlı yayın katalogları (host: diziboxen.top)",
+    "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/InatTV.cs3",
+    "name": "InatTV"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilabmedia.click&sz=%size%",
     "fileHash": "sha256-a961aac51fd4ecc0534e70ff18f71bb35292933494168f76a61defa38fe578f3",
     "apiVersion": 1,
@@ -1129,7 +1151,7 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-d469bf5ccbdcbc91852c5811e30d836d8cdf82efb0596f78d8f7cd41591dd20a"
+    "fileHash": "sha256-2e0877e33bbe23c225ae410bd4989d79cb5969c5bd0b4382bb40aa14db244dd2"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
