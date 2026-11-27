@@ -508,10 +508,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxen.top&sz=%size%",
-    "fileHash": "sha256-21f682bdc9d17ebeb91b6740f2bf3493e67a1b98aab203da89dcaf2ff35c8ebb",
+    "fileHash": "sha256-9f36efaaf25313fe017af1840e72706879140e951278039501c6213c01c372a3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
-    "fileSize": 180756,
+    "fileSize": 187861,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -522,7 +522,7 @@
       "Movie",
       "Live"
     ],
-    "version": 6,
+    "version": 8,
     "internalName": "InatTV",
     "description": "İnatTV — imzalı API üzerinden film, dizi, platform ve canlı yayın katalogları (host: diziboxen.top)",
     "url": "https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/builds/InatTV.cs3",
